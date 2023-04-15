@@ -39,7 +39,7 @@ dn/RsYEONbwQSjIfMPkvxF+8HQ==
 
 export = {
   appEnv: process.env.NODE_ENV || 'development',
-  port: process.env.APP_PORT || 8000,
+  port: process.env.APP_PORT || 3001,
   publicKey: process.env.PUBLIC_KEY || defaultPublicKey,
   privateKey: process.env.PRIVATE_KEY || defaultPrivateKey,
   log: {
