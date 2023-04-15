@@ -1,0 +1,10 @@
+{
+  "require": "ts-node/register",
+  "diff": true,
+  "trace-warnings": true,
+  "opts": false,
+  "exit": true,
+  "reporter": "mochawesome",
+  "full-trace": true,
+  "timeout": 10000
+}
