@@ -65,6 +65,8 @@ yarn
 - `DOCKER_MONGO_PORT`: to specify host port that will be mapped by docker mongodb
 
 ## Run project 
+By default if award-api running the url is [http://localhost:3001](http://localhost:3001)
+
 - Start app must to build first with `$ yarn compile` and then `$ yarn start`
 ```bash
 yarn compile
